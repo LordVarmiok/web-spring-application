@@ -36,6 +36,14 @@
         </div>
 
         <div class="form-group">
+            <label for="avatarUrl" class="col-md-2 control-label">Avatar:</label>
+                  <div class="col-md-10">
+                       <input id="avatarUrl" name="avatarUrl" class="form-control"
+                               type="text" placeholder="Podaj url avatara" required>
+                  </div>
+        </div>
+
+        <div class="form-group">
             <div class="col-sm-offset-2 col-sm-10">
                 <button type="submit" class="btn btn-success">Zapisz</button>
                 <a href="/users" class="btn btn-danger">Anuluj</a>

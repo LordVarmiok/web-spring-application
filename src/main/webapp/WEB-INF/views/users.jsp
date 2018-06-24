@@ -21,6 +21,7 @@
                     <th>Imie</th>
                     <th>Nazwisko</th>
                     <th>Email</th>
+                    <th>Avatar</th>
                     <th>Akcja</th>
                 </tr>
                 </thead>
